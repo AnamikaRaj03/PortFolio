@@ -75,7 +75,7 @@ const Hero = () => {
             <div className="code-content mono">
               <div className="code-line">
                 <span className="line-number">1</span>
-                <span className="keyword">const</span> <span className="variable">developer</span> <span className="operator">=</span> <span className="punctuation">{</span>
+                <span className="keyword">const</span> <span className="variable">developer</span> <span className="operator">=</span> <span className="punctuation">&#123;</span>
               </div>
               <div className="code-line">
                 <span className="line-number">2</span>
@@ -95,7 +95,7 @@ const Hero = () => {
               </div>
               <div className="code-line">
                 <span className="line-number">6</span>
-                <span className="punctuation">};</span>
+                <span className="punctuation">&#125;;</span>
               </div>
             </div>
           </div>
