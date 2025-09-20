@@ -13,6 +13,7 @@ function App() {
           <Route path="/" element={<Portfolio />} />
         </Routes>
       </BrowserRouter>
+      <Toaster />
     </div>
   );
 }
